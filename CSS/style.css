@@ -97,7 +97,8 @@ section {
     grid-template-columns: 1fr;
     justify-items: flex-end;
     align-items: center;
-    gap: 5px;
+    align-content: center;
+    gap: 20px;
     width: 65%;
 }
 
@@ -123,13 +124,13 @@ section {
 }
 
 .right>div:first-child {
-    margin-right: 10%;
+    margin-right: 14%;
     padding-right: 50px;
 }
 
 .right>div:nth-child(2) {
     padding-right: 30px;
-    margin-right: 5%;
+    margin-right: 7%;
 }
 
 .right>div:last-child {
